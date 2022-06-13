@@ -6,3 +6,4 @@ joblib==0.13.2
 jsonschema==2.6.0 
 webencodings==0.5.1
 Werkzeug==1.0.1
+pandas==0.25.1 
